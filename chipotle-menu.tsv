@@ -1,0 +1,41 @@
+menu_category	item_name	protein	entree_type
+drink	6 Pack Soft Drink	NULL	NULL
+entree	Barbacoa Bowl	barbacoa	bowl
+entree	Barbacoa Burrito	barbacoa	burrito
+entree	Barbacoa Crispy Tacos	barbacoa	crispy
+entree	Barbacoa Salad Bowl	barbacoa	salad
+entree	Barbacoa Soft Tacos	barbacoa	soft
+drink	Bottled Water	NULL	NULL
+drink	Canned Soft Drink	NULL	NULL
+entree	Carnitas Bowl	carnitas	bowl
+entree	Carnitas Burrito	carnitas	burrito
+entree	Carnitas Crispy Tacos	carnitas	crispy
+entree	Carnitas Salad	carnitas	salad
+entree	Carnitas Salad Bowl	carnitas	salad
+entree	Carnitas Soft Tacos	carnitas	soft
+entree	Chicken Bowl	chicken	bowl
+entree	Chicken Burrito	chicken	burrito
+entree	Chicken Crispy Tacos	chicken	crispy
+entree	Chicken Salad	chicken	salad
+entree	Chicken Salad Bowl	chicken	salad
+entree	Chicken Soft Tacos	chicken	soft
+side	Chips	NULL	NULL
+side	Chips and Guacamole	NULL	NULL
+side	Chips and Mild Fresh Tomato Salsa	NULL	NULL
+side	Chips and Roasted Chili-Corn Salsa	NULL	NULL
+side	Chips and Tomatillo-Green Chili Salsa	NULL	NULL
+side	Chips and Tomatillo-Red Chili Salsa	NULL	NULL
+drink	Izze	NULL	NULL
+drink	Nantucket Nectar	NULL	NULL
+entree	Steak Bowl	steak	bowl
+entree	Steak Burrito	steak	burrito
+entree	Steak Crispy Tacos	steak	crispy
+entree	Steak Salad	steak	salad
+entree	Steak Salad Bowl	steak	bowl
+entree	Steak Soft Tacos	steak	soft
+entree	Veggie Bowl	veggie	bowl
+entree	Veggie Burrito	veggie	burrito
+entree	Veggie Crispy Tacos	veggie	crispy
+entree	Veggie Salad	veggie	salad
+entree	Veggie Salad Bowl	veggie	salad
+entree	Veggie Soft Tacos	veggie	soft
